@@ -1,0 +1,28 @@
+[
+{
+    "question": "HTML tag for Javascript?",
+    "choice1": "script",
+    "choice2": "javascript",
+    "choice3": "js",
+    "choice4": "scripting",
+    "answer": 1
+},
+
+{
+    "question": "Capital of India?",
+    "choice1": "Mumbai",
+    "choice2": "Kolkata",
+    "choice3": "New Delhi",
+    "choice4": "Lucknow",
+    "answer": 3
+},
+
+{
+    "question": "US Independence Day?",
+    "choice1": "4 Aug",
+    "choice2": "16 Sep",
+    "choice3": "7 Dec",
+    "choice4": "4 July",
+    "answer": 4
+}
+]
